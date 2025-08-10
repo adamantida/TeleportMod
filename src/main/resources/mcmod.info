@@ -1,0 +1,16 @@
+[
+{
+  "modid": "FuckedTp",
+  "name": "FuckedTP",
+  "description": "Tpa, warp/s, home/s",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SumalyFly"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
